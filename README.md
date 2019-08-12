@@ -1,3 +1,3 @@
 # My Website
 
-https://bdebilzan.github.io
+brycedebilzan.com
