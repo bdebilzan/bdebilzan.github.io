@@ -1,3 +1,3 @@
 # My Website
 
-brycedebilzan.com
+http://brycedebilzan.com
